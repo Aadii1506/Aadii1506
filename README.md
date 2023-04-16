@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hii ! Aditya here; <br>👯 Loves peer programming!!;<br>🤝 Happy to collab with tech's namely java and front end;<br>🌱 I’m currently learning Advanced java;<br>💬 Ask me about CP, JAVA, Coding stuffs;
+🔭 Hii ! Aditya here; <br>👯 Loves peer programming!!;<br>🤝 Will be Happy to collab with tech's namely java and front end;<br>🌱 I’m currently learning Advanced java;<br>💬 Ask me about CP, JAVA, Coding stuffs;
 
 
 ## 🌐 Socials:
