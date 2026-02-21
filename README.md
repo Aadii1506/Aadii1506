@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Hi, I'm Aditya — Backend-focused Software Engineer  
-💻 Currently building scalable data pipelines & AWS-based backend systems  
+💻 Currently building scalable data pipelines & backend systems  
 🤖 Exploring Agentic AI, RAG architectures & LLM-integrated applications  
 👯 Open to collaborating on Python, Django, FastAPI, Java & Backend projects  
 🌱 Strong in Data Structures & Algorithms | Cloud & System Design Enthusiast  
