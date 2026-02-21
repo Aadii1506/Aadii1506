@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hii ! Aditya here; <br>👯 Loves peer programming!!;<br>🤝 Will be Happy to collab with tech's related java and front end;<br>🌱 I’m currently learning Advanced ANGULAR and Django;<br>💬 Ask me about CP, ANGULAR, DJANGO, Coding stuffs;
+🔭 Hii ! Aditya here; <br>👯 Loves peer programming!!;<br>🤝 Will be Happy to collab with tech related python/java and back end;<br>🌱💬 Ask me about CP, ANGULAR, Agentic AI, DJANGO, Coding stuffs;
 
 
 ## 🌐 Socials:
