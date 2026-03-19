@@ -65,6 +65,17 @@ FastAPI + React based Retrieval-Augmented Generation system
 – Persistent vector storage & performance optimizations  
 – Dual-mode chat (normal + video-context)
 
+🔹 **PuleChat**
+FastAPI, WebSockets, Redis, React
+– Developed a full-stack real-time messaging platform using FastAPI, WebSockets, Redis, React to support low-latency
+chat communication.
+– Implemented real-time chat features including direct/group messaging, typing indicators, online presence, read
+receipts, reply, edit, and delete message workflows.
+– Designed role-based group management with Owner/Admin/Member permissions, member controls, pinned chats,
+and invite-link-based group joining.
+– Developed secure user management features such as JWT authentication, password reset, profile update, avatar
+upload, and responsive Telegram-inspired UI/UX.
+
 🔹 **AcademixConnect**  
 Modular Django backend for collaborative academic workflows  
 – REST APIs  
