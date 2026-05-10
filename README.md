@@ -65,7 +65,7 @@ FastAPI + React based Retrieval-Augmented Generation system
 – Persistent vector storage & performance optimizations  
 – Dual-mode chat (normal + video-context)
 
-🔹 **PuleChat**
+🔹 **PulseChat**
 FastAPI, WebSockets, Redis, React
 – Developed a full-stack real-time messaging platform using FastAPI, WebSockets, Redis, React to support low-latency
 chat communication.
